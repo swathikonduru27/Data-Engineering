@@ -1,0 +1,11 @@
+customer_id,customer_name,email,country,region,signup_date,customer_tier
+C001,Alice Johnson,alice@example.com,USA,North America,2023-01-15,Premium
+C002,Bob Smith,bob@example.com,USA,North America,2023-02-20,Standard
+C003,Carol Davis,carol@example.com,UK,Europe,2023-03-10,Premium
+C004,David Wilson,david@example.com,Canada,North America,2023-04-05,Standard
+C005,Emma Brown,emma@example.com,Australia,Asia Pacific,2023-05-12,Premium
+C006,Frank Miller,frank@example.com,Germany,Europe,2023-06-18,Standard
+C007,Grace Lee,grace@example.com,Japan,Asia Pacific,2023-07-22,Premium
+C008,Henry Taylor,henry@example.com,USA,North America,2023-08-30,Standard
+C009,Iris Chen,iris@example.com,Singapore,Asia Pacific,2023-09-14,Premium
+C010,Jack Martinez,jack@example.com,Mexico,Latin America,2023-10-25,Standard

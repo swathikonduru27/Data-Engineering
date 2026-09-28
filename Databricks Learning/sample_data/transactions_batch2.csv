@@ -1,0 +1,6 @@
+transaction_id,customer_id,amount,transaction_date,payment_method,status
+T006,C006,425.00,2024-01-15,Credit Card,Completed
+T007,C007,180.50,2024-01-16,PayPal,Completed
+T008,C008,950.00,2024-01-17,Credit Card,Completed
+T009,C009,220.75,2024-01-18,Debit Card,Completed
+T010,C010,350.25,2024-01-19,Credit Card,Completed
