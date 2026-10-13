@@ -1,0 +1,16 @@
+event_id,customer_id,event_type,event_timestamp,page_url,session_id,device_type
+E001,C001,page_view,2024-01-20T10:15:30,/products/electronics,S001,Desktop
+E002,C002,add_to_cart,2024-01-20T10:16:45,/products/electronics,S001,Mobile
+E003,C003,checkout_start,2024-01-20T10:18:00,/checkout,S002,Desktop
+E004,C004,purchase,2024-01-20T10:19:15,/order-confirmation,S002,Mobile
+E005,C005,page_view,2024-01-20T10:20:30,/products/clothing,S003,Desktop
+E006,C006,add_to_cart,2024-01-20T10:21:45,/products/clothing,S003,Tablet
+E007,C007,checkout_start,2024-01-20T10:23:00,/checkout,S004,Mobile
+E008,C008,purchase,2024-01-20T10:24:15,/order-confirmation,S004,Desktop
+E009,C009,page_view,2024-01-20T10:25:30,/products/home,S005,Mobile
+E010,C010,add_to_cart,2024-01-20T10:26:45,/products/home,S005,Desktop
+E011,C001,page_view,2024-01-20T11:15:30,/products/books,S006,Mobile
+E012,C002,add_to_cart,2024-01-20T11:16:45,/products/books,S006,Desktop
+E013,C003,checkout_start,2024-01-20T11:18:00,/checkout,S007,Mobile
+E014,C004,purchase,2024-01-20T11:19:15,/order-confirmation,S007,Tablet
+E015,C005,page_view,2024-01-20T11:20:30,/products/sports,S008,Desktop

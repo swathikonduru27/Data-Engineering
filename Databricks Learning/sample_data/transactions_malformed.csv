@@ -1,0 +1,6 @@
+transaction_id,customer_id,amount,transaction_date,payment_method,status,extra_field
+T001,C001,250.50,2024-01-10,Credit Card,Completed,Extra1
+T002,C002,150.75,2024-01-11,PayPal,Completed,Extra2
+T003,C003,500.00,2024-01-12,Credit Card,Completed,Extra3,AdditionalField
+T004,C004,75.25,2024-01-13,Debit Card,Completed
+T005,C005,300.00,2024-01-14,Credit Card,"Completed, High Value",ExtraData
